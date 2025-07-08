@@ -10,8 +10,8 @@
 This repository documents the architecture, usage, and publishing details of the **Daily Trend Talk** podcast.  
 The core automation code is **not open-sourced** at this time.
 
-💬 Want access or collaboration? [Contact me directly](mailto:your@email.com)  
-❤️ Support the project on [Patreon](https://patreon.com/YourPage)
+💬 Want access or collaboration? [Contact me directly](mailto:arkgrimreaper123@gamil.com)  
+❤️ Support the project on [Patreon](patreon.com/TechEkta)
 
 ---
 
@@ -65,7 +65,7 @@ data/
 
 If this project helps you, inspires you, or saves you time — consider supporting it:
 
-[![Patreon](https://img.shields.io/badge/❤️-Support_on_Patreon-orange)](https://patreon.com/YourPage)
+[![Patreon](https://img.shields.io/badge/❤️-Support_on_Patreon-orange)](https://patreon.com/TechEkta)
 
 Every contribution helps us upgrade the pipeline, explore more stories, and deliver better audio quality and bonus content.
 
@@ -81,6 +81,5 @@ Every contribution helps us upgrade the pipeline, explore more stories, and deli
 
 ## 📬 Contact
 
-📧 your@email.com  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-🌐 https://patreon.com/YourPage
+📧 arkgrimreaper123@gamil.com 
+🌐 patreon.com/TechEkta
